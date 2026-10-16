@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/sknetwork-team/scikit-network/commit/f8f9dfcde8339e6f4562c6553509bf6e01076865",
       "git:hexsha": "f8f9dfcde8339e6f4562c6553509bf6e01076865",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.33.5"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.33.5",
+      "repolex:parsedAt": "2026-10-16T03:35:51.291027+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sknetwork-team/scikit-network/commit/20d0bf3f6bf31d51be10c90d7190043ebd97fcf9",
