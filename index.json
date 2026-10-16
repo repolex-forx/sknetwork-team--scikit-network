@@ -1,0 +1,11 @@
+{
+  "org": "sknetwork-team",
+  "repo": "scikit-network",
+  "versions": [
+    {
+      "commit": "f8f9dfcde8339e6f4562c6553509bf6e01076865",
+      "tag": "v0.33.5",
+      "parsed_at": "2026-10-16T03:35:51.291819+00:00"
+    }
+  ]
+}
